@@ -1,0 +1,12 @@
+name: uganda_4w_dashboard
+title: uganda_4w_dashboard
+username:
+account: impact-initiatives
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3377508
+bundleId: 3965403
+url: https://impact-initiatives.shinyapps.io/uganda_4w_dashboard/
+when: 1607514920.39757
+asMultiple: FALSE
+asStatic: FALSE
